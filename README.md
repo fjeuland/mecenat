@@ -1,6 +1,6 @@
 #Contexte
 
-Dans le cadre d'un recherche de mécènes pour une association d'éducation populaire, il était nécessaire d'établir une liste d'entreprises potentiellement partenaires.
+Dans le cadre d'une recherche de mécènes pour une association d'éducation populaire, il était nécessaire d'établir une liste d'entreprises potentiellement partenaires.
 
 #Méthode
 Pour définir une entreprise potentiellement intéressante, trois axes ont été identifiés :
