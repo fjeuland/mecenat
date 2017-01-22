@@ -11,9 +11,9 @@ Pour définir une entreprise potentiellement intéressante, trois axes ont été
 #Matériel
 Cette opération s'est appuyée sur la publication récente de deux sources de données :
 * Infogreffe, et en particulier les chiffres clés 2012-2014 : http://www.data.gouv.fr/fr/datasets/chiffres-cles-2014-2013-2012/
-** qui donne accès à la liste des entreprises, avec leur SIRET, la ville de leur siège social, les effectifs, chiffre d'affaire et résultat pour ces trois années (les données ne sont pas toujours présentes pour toutes les entreprises)
+  * qui donne accès à la liste des entreprises, avec leur SIRET, la ville de leur siège social, les effectifs, chiffre d'affaire et résultat pour ces trois années (les données ne sont pas toujours présentes pour toutes les entreprises)
 * Sirene : http://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/
-** qui donne accès à l'adresse précise de l'entreprise
+  * qui donne accès à l'adresse précise de l'entreprise
 
 #Démarche détaillée
 cf : https://github.com/jieff610/infogreffe
